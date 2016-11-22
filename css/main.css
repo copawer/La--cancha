@@ -1,0 +1,79 @@
+.cancha{
+
+	width: 900px;
+	height: 500px;
+	background-color: #28B463;
+	border-width: 1px;
+	border-color: white;
+	position: absolute;
+
+}
+.borde{
+	width: 850px;
+	height: 450px;
+	background-color: #28B463;
+	border-width: 2px;
+	border-color: white;
+	border-style: solid;
+	margin-left: 22px;
+	margin-top: 24px;
+	position: absolute;
+
+}
+.arco1,.arco2{
+	width: 100px;
+	height: 200px;
+	background-color: #28B463;
+	border-width: 2px;
+	border-color: white;
+	border-style: solid;
+	margin-top: 125px;
+	
+}
+.arco1{
+	position: relative;
+	float: left;
+}
+.arco2{
+	float: right;
+	position: relative;
+}
+.centro{
+	 width: 180px;
+     height: 180px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #28B463;
+     border-width: 2px;
+	border-color: white;
+	border-style: solid;
+	position: relative;
+	margin-left: 345px;
+	margin-top: 135px;
+
+}
+.pelota1{
+	position: absolute;
+	top:128px;
+	left: 90px;
+
+}
+
+.pelota2{
+	position: absolute;
+	top:80px;
+	left: 450px;
+
+}
+.pelota3{
+	position: absolute;
+	top:300px;
+	left: 720px;
+
+}
+
+
+
+
+/* Inserta tu CSS aqui */
